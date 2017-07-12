@@ -1,0 +1,128 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2016-11-01 17:54+0100\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:52
+msgid   "Access denied."
+msgstr  ""
+
+#: lib/class-widgets-control-sidebars.php:340
+#: lib/class-widgets-control-sidebars.php:342
+msgid   "Apply"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:79
+msgid   "Automatic Cache Clearing"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:83
+msgid   "Automatically clear the cache when widgets are updated?"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:175
+#: lib/class-widgets-control-sidebars.php:314
+msgid   "Conditions"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:200
+#: lib/class-widgets-control-sidebars.php:349
+msgid   "Get <a href=\"http://www.itthinx.com/shop/widgets-control-pro/"
+        "\"><strong>Widgets Control Pro</strong></a> which supports "
+        "conditions based on page hierarchies, post types, roles and <a href="
+        "\"http://wordpress.org/plugins/groups/\">groups</a>."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:90
+msgid   "It is recommended while you set up your widgets or when you work on "
+        "changes."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:92
+msgid   "Note that you can also clear the cache manually even with this "
+        "option disabled and we recommend to disable it once you have "
+        "finished setting up your widgets."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:196
+#: lib/class-widgets-control-sidebars.php:335
+msgid   "Please refer to the <a href=\"http://docs.itthinx.com/document/"
+        "widgets-control/\">Documentation</a> for details."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:184
+#: lib/class-widgets-control-sidebars.php:323
+msgid   "Put each item on a line by itself."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:96
+msgid   "Save"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:35
+msgid   "Settings"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:166
+#: lib/class-widgets-control-sidebars.php:305
+msgid   "Show on all except these pages"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:154
+#: lib/class-widgets-control-sidebars.php:293
+msgid   "Show on all pages"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:160
+#: lib/class-widgets-control-sidebars.php:299
+msgid   "Show only on these pages"
+msgstr  ""
+
+#: lib/class-widgets-control-sidebars.php:265
+msgid   "Sidebar Visibility"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:188
+#: lib/class-widgets-control-sidebars.php:327
+msgid   "These tokens can be used:"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:88
+msgid   "This option is only provided as a convenience while you set up your "
+        "site."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:86
+msgid   "This works with W3 Total Cache, WP Super Cache and WP Engine."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:186
+#: lib/class-widgets-control-sidebars.php:325
+msgid   "To include or exclude pages, use page ids, titles or slugs."
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin.php:138
+msgid   "Visibility"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:42
+#: lib/admin/class-widgets-plugin-admin-settings.php:43
+msgid   "Widgets Control"
+msgstr  ""
+
+#: lib/admin/class-widgets-plugin-admin-settings.php:69
+msgid   "Widgets Control Settings"
+msgstr  ""
